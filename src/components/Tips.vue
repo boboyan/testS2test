@@ -11,7 +11,7 @@
   <br>
   Below we have got a few key points for you
   <br><br><br><br>
- <h2> Get it started now, you puppy can't wait!&#128021;</h2>
+ <h2> Get it started now, your puppy can't wait!&#128021;</h2>
   <br><br><br><br>
 <details>
   <summary>Tools You Need</summary> <br>
